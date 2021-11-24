@@ -1,5 +1,7 @@
 id: P000441
 initial_creation_type: ocr
+created_at: 22/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1PD90019
   title: རྔ་བ་ཁུལ་ས་གནས་ལོ་རྒྱུས།（རྒྱ་ཡིག
@@ -23,10 +25,3 @@ source_metadata:
       volume_number: 3
       total_pages: 1070
       base_file: v003.txt
-ebook_metadata:
-  title: རྔ་བ་ཁུལ་ས་གནས་ལོ་རྒྱུས།（རྒྱ་ཡིག
-  author: ''
-  sku: P000441
-  cover: cover.jpg
-  layers:
-  - pagination
